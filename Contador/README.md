@@ -11,4 +11,4 @@ Esta aplicação desenvolvida em React-Native consiste em uma interação com o 
 ![image](https://user-images.githubusercontent.com/81347105/134822742-91fba5ee-09f6-4231-b2ac-2636388ed0e4.png)
 ![image](https://user-images.githubusercontent.com/81347105/134822746-eb2bf82e-05a9-4cc8-8503-aa07750541f5.png)
 
-Ft. <a href=" https://github.com/th1ag0-Zz/">Thiago Silva</a>
+[Ft.](https://github.com/th1ag0-Zz)
