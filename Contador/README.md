@@ -7,8 +7,7 @@ Esta aplicação desenvolvida em React-Native consiste em uma interação com o 
 - Interação com o horário local
 - Interação do número com a UI
 
-![image](https://user-images.githubusercontent.com/81347105/134822740-8bb401d2-384b-4dcc-accb-05270cdf5162.png)
-![image](https://user-images.githubusercontent.com/81347105/134822742-91fba5ee-09f6-4231-b2ac-2636388ed0e4.png)
-![image](https://user-images.githubusercontent.com/81347105/134822746-eb2bf82e-05a9-4cc8-8503-aa07750541f5.png)
-
+![image](https://user-images.githubusercontent.com/81347105/134822983-3de724b8-46d8-431c-b87f-1b16d81dc385.png)
+![image](https://user-images.githubusercontent.com/81347105/134822988-ba69741c-c9a7-4733-b87c-e44a414afd6f.png)
+![image](https://user-images.githubusercontent.com/81347105/134822992-79399e96-cc6d-48df-916a-39c3569d1c90.png)
 Ft.[Thiago Silva](https://github.com/th1ag0-Zz)
